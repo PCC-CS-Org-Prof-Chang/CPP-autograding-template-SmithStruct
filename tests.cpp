@@ -47,7 +47,7 @@ TEST_CASE("Calculate Sign Order Entry Pricing with special wood and letter color
 // ---------------------
 
 // mame and tag of test case
-TEST_CASE("Calculate Sign Order Pricing with 2 entries using arrays", "[Smith Shop test]")
+TEST_CASE("Calculate Sign Order Pricing with 2 entries using structs", "[Smith Shop test]")
 {
     //std::string entries[2][3] = {{"oak","Hello","red"},{"pine","World","blue"}};
     //double entryCharge[2];
@@ -71,7 +71,7 @@ TEST_CASE("Calculate Sign Order Pricing with 2 entries using arrays", "[Smith Sh
 // ---------------------
 
 // mame and tag of test case
-TEST_CASE("Calculate Order Pricing with 2 orders and 2 entries using arrays", "[Smith Shop test]")
+TEST_CASE("Calculate Order Pricing with 2 orders and 2 entries using structs", "[Smith Shop test]")
 {
     //std::string orders[2][2][3] = {{{"oak","Hello","red"},{"pine","World","blue"}},{{"oak","HelloWorld","red"},{"pine","World","blue"}}};
     Order orders;
