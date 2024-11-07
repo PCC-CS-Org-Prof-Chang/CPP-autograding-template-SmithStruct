@@ -1,4 +1,4 @@
-# autograding-example-cpp-lab7
+# autograding-example-cpp-smith-struct
 
 ## Full-Name-Of-Student
 
@@ -6,7 +6,7 @@
 
 ## Problem Description
 
-Please reference to Lab07 assignment for requirement
+Please reference to Group Discussion - SmithStruct assignment for requirement
 
 ## Objective
 
