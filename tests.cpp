@@ -36,7 +36,7 @@ TEST_CASE("Calculate Sign Order Entry Pricing with special wood and letter size 
 
 TEST_CASE("Calculate Sign Order Entry Pricing with special wood and letter color with extra charge", "[Smith Shop test]")
 {
-    Entry entry = {"oak","Hello","old-leaf"};
+    Entry entry = {"oak","Hello","Gold-leaf"};
     double dPrice = calcSignEntryPricing(entry);
     CHECK(dPrice == 57);
 }
