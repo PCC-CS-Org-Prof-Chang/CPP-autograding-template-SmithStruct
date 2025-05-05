@@ -8,7 +8,7 @@ const double MINIMUM_CHARGE = 30;
 const double OAK_CHARGE = 15;
 const int FREE_LETTERS = 6;
 const double LETTER_CHARGE = 3;
-const double GOLD_LEAF_CHARGE = 12;
+const double OLD_LEAF_CHARGE = 12;
 
 const int MAX_SIGN_ENTRY_ATTRIBUTES = 3;    // attribites include wood type, number of letters, and letter color
 const int MAX_ORDERS = 2;

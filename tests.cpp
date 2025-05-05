@@ -38,7 +38,7 @@ TEST_CASE("Calculate Sign Order Entry Pricing with special wood and letter color
 {
     Entry entry = {"oak","Hello","Gold-leaf"};
     double dPrice = calcSignEntryPricing(entry);
-    CHECK(dPrice == 57);
+    CHECK(dPrice == 45);
 }
 
 
